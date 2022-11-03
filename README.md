@@ -1,4 +1,4 @@
-# @scientisst/eslint-config-next
+# @scientisst/prettier-config-next
 This package contains recommended prettier settings for ScientISST or ScientISST-inspired applications that use the Next.js framework.
 
 ## Install
