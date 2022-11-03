@@ -1,0 +1,30 @@
+{
+	"name": "@scientisst/prettier-config-next",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/scientisst/scientisst-eslint-config.git",
+	"contributors": [
+		{
+			"name": "Rui Maciel",
+			"email": "ruigouveiamaciel@gmail.com",
+			"url": "https://github.com/ruigouveiamaciel"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Rui Maciel",
+			"email": "ruigouveiamaciel@gmail.com",
+			"url": "https://github.com/ruigouveiamaciel"
+		}
+	],
+	"license": "MIT",
+	"peerDependencies": {
+		"prettier": ">= 2.7.1",
+		"@trivago/prettier-plugin-sort-imports": ">= 3.4.0"
+	},
+	"dependencies": {
+		"@trivago/prettier-plugin-sort-imports": "^3.4.0",
+		"prettier": "^2.7.1",
+		"prettier-plugin-tailwindcss": "^0.1.13"
+	}
+}
