@@ -2,7 +2,7 @@
 	"name": "@scientisst/prettier-config-next",
 	"version": "1.0.0",
 	"main": "index.js",
-	"repository": "https://github.com/scientisst/scientisst-eslint-config-next.git",
+	"repository": "https://github.com/scientisst/scientisst-prettier-config-next.git",
 	"contributors": [
 		{
 			"name": "Rui Maciel",
