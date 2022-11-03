@@ -1,6 +1,6 @@
 {
 	"name": "@scientisst/prettier-config-next",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"main": "index.js",
 	"repository": "https://github.com/scientisst/scientisst-prettier-config-next.git",
 	"contributors": [
