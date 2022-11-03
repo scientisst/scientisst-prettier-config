@@ -36,5 +36,14 @@ module.exports = {
 		"^[./]"
 	],
 	importOrderSeparation: true,
-	importOrderSortSpecifiers: true
+	importOrderSortSpecifiers: true,
+	overrides: [
+		{
+			files: ["*.yaml", "*.yml"],
+			options: {
+				tabWidth: 2,
+				useTabs: false
+			}
+		}
+	]
 }
